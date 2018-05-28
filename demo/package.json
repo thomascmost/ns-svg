@@ -13,8 +13,8 @@
     }
   },
   "dependencies": {
-    "nativescript-svg": "../src/",
-    "tns-core-modules": "^3.0.0"
+    "nativescript-svg": "file:../src",
+    "tns-core-modules": "^4.0.1"
   },
   "devDependencies": {
     "babel-traverse": "6.9.0",
